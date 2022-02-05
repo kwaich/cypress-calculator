@@ -1,0 +1,10 @@
+{
+    "testFiles": "**/*.feature",
+    "screenshotsFolder": "./cypress/snapshots/actual",
+    "trashAssetsBeforeRuns": true,
+    "env": {
+        "failSilently": false,
+        "type": "actual"
+    },
+    "capture": "viewport"
+}

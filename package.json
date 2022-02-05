@@ -1,0 +1,18 @@
+{
+  "devDependencies": {
+    "cypress": "^9.3.1",
+    "cypress-cucumber-preprocessor": "^4.3.1",
+    "cypress-visual-regression": "^1.6.3"
+  },
+  "cypress-cucumber-preprocessor": {
+    "nonGlobalStepDefinitions": true
+  },
+  "name": "cucumber-cypress-calculator-test",
+  "version": "1.0.0",
+  "description": "To test using cucumber and cypress",
+  "keywords": [
+    "cucumber"
+  ],
+  "author": "Wai Cheng",
+  "license": "ISC"
+}

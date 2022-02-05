@@ -1,0 +1,67 @@
+
+====================================================================================================
+
+  (Run Starting)
+
+  ┌────────────────────────────────────────────────────────────────────────────────────────────────┐
+  │ Cypress:        9.3.1                                                                          │
+  │ Browser:        Chrome 97 (headless)                                                           │
+  │ Node Version:   v16.13.1 (/Users/waicheng/.nvm/versions/node/v16.13.1/bin/node)                │
+  │ Specs:          1 found (calculator.feature)                                                   │
+  └────────────────────────────────────────────────────────────────────────────────────────────────┘
+
+
+────────────────────────────────────────────────────────────────────────────────────────────────────
+                                                                                                    
+  Running:  calculator.feature                                                              (1 of 1)
+
+
+  Test online calculator scenarios
+    ✓ Test subtraction, division and CE functionalities (example #1) (3636ms)
+    ✓ Test subtraction, division and CE functionalities (example #2) (1976ms)
+    ✓ Test subtraction, division and CE functionalities (example #3) (1316ms)
+    ✓ Test subtraction, division and CE functionalities (example #4) (1186ms)
+    ✓ Test subtraction, division and CE functionalities (example #5) (1260ms)
+    ✓ Test subtraction, division and CE functionalities (example #6) (1220ms)
+    ✓ Test subtraction, division and CE functionalities (example #7) (1218ms)
+    ✓ Test subtraction, division and CE functionalities (example #8) (1320ms)
+    ✓ Test subtraction, division and CE functionalities (example #9) (1228ms)
+    ✓ Test subtraction, division and CE functionalities (example #10) (1192ms)
+
+
+  10 passing (19s)
+
+
+  (Results)
+
+  ┌────────────────────────────────────────────────────────────────────────────────────────────────┐
+  │ Tests:        10                                                                               │
+  │ Passing:      10                                                                               │
+  │ Failing:      0                                                                                │
+  │ Pending:      0                                                                                │
+  │ Skipped:      0                                                                                │
+  │ Screenshots:  0                                                                                │
+  │ Video:        true                                                                             │
+  │ Duration:     19 seconds                                                                       │
+  │ Spec Ran:     calculator.feature                                                               │
+  └────────────────────────────────────────────────────────────────────────────────────────────────┘
+
+
+  (Video)
+
+  -  Started processing:  Compressing to 32 CRF                                                     
+  -  Finished processing: /Users/waicheng/Projects/cypress-calculator/cypress/videos/     (1 second)
+                          calculator.feature.mp4                                                    
+
+
+====================================================================================================
+
+  (Run Finished)
+
+
+       Spec                                              Tests  Passing  Failing  Pending  Skipped  
+  ┌────────────────────────────────────────────────────────────────────────────────────────────────┐
+  │ ✔  calculator.feature                       00:19       10       10        -        -        - │
+  └────────────────────────────────────────────────────────────────────────────────────────────────┘
+    ✔  All specs passed!                        00:19       10       10        -        -        -  
+
